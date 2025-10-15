@@ -96,11 +96,10 @@ A ferramenta se mostrou eficaz na **transformação de dados brutos em informaç
 **[Guilherme Gabriel]**  
 Excel Data Analysis & Business Intelligence  
 📧 guigabfz@gmail.com 
-🔗 [LinkedIn]([(https://www.linkedin.com/in/guilhermegabsouza/))
+🔗 [LinkedIn]([(https://www.linkedin.com/in/guilhermegabsouza/)
 
 ---
 
-## 🖼️ (Opcional) Imagem do Dashboard  
-Se desejar incluir uma captura de tela, adicione o arquivo na pasta do repositório e insira a linha abaixo:  
-```markdown
-![Dashboard XBOX](xbox_dashboard.png)
+## 🖼️ Imagem do Dashboard  
+
+![Dashboard XBOX](xbox_dashboard.jpg)
